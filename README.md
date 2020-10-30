@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Xiaolei0412)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ```markdown
 Syntax highlighted code block
